@@ -34,7 +34,7 @@ Computer Engineering student (graduating 2026) building backend systems methodic
 ### GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashnikam78&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yashnikam78&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="165" />
 </p>
 
 ---
